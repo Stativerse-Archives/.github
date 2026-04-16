@@ -1,2 +1,5 @@
-# .github
-The archives of Stativerse.
+# Stativerse Archives
+
+## Background
+
+This repository contains the organization's description.
